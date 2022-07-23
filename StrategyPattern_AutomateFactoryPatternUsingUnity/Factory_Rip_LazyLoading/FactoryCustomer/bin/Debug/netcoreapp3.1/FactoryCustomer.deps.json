@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactoryCustomer/1.0.0": {
+        "dependencies": {
+          "MiddleLayer": "1.0.0"
+        },
+        "runtime": {
+          "FactoryCustomer.dll": {}
+        }
+      },
+      "MiddleLayer/1.0.0": {
+        "runtime": {
+          "MiddleLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryCustomer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiddleLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
