@@ -1,6 +1,6 @@
-﻿using Microsoft.Practices.Unity;
+﻿using InterfaceCustomer;
+using Microsoft.Practices.Unity;
 using MiddleLayer;
-using InterfaceCustomer;
 using ValidationAlgorithms;
 
 namespace FactoryCustomer
@@ -14,10 +14,13 @@ namespace FactoryCustomer
             {
                 custs = new UnityContainer();
                 //custs.RegisterType<ICustomer, Customer>("Customer");
-                //custs.RegisterType<ICustomer, Lead>("Lead");
+                //custs.RegisterType<ICustomer, Lead>("Lead");            - XOX
 
                 custs.RegisterType<ICustomer, Customer>("Customer", new InjectionConstructor(new CustomerValidationAll()));
                 custs.RegisterType<ICustomer, Lead>("Lead", new InjectionConstructor(new LeadValidation()));
+
+                // Note(not sure): Before(XOX) it was sending simple obj of Customer/Lead, but now it is sending obj of
+                // CustomerValidaionAll/LeadValidation or may be both Customer/Lead and CustomerValidationAll/LeadValidation
             }
 
             return custs.Resolve<ICustomer>(TypeCust);

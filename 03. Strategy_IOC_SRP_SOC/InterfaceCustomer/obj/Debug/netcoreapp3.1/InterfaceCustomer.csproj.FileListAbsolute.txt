@@ -17,3 +17,13 @@ C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\Interfa
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.csproj.CoreCompileInputs.cache
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.dll
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\InterfaceCustomer\obj\Debug\netcoreapp3.1\InterfaceCustomer.pdb

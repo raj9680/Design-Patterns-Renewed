@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactoryCustomer/1.0.0": {
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0",
+          "MiddleLayer": "1.0.0",
+          "Unity": "3.5.1404",
+          "ValidationAlgorithms": "1.0.0"
+        },
+        "runtime": {
+          "FactoryCustomer.dll": {}
+        }
+      },
+      "Unity/3.5.1404": {
+        "runtime": {
+          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.1404.0"
+          },
+          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.1404.0"
+          },
+          "lib/net45/Microsoft.Practices.Unity.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.1404.0"
+          }
+        }
+      },
+      "InterfaceCustomer/1.0.0": {
+        "runtime": {
+          "InterfaceCustomer.dll": {}
+        }
+      },
+      "MiddleLayer/1.0.0": {
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0"
+        },
+        "runtime": {
+          "MiddleLayer.dll": {}
+        }
+      },
+      "ValidationAlgorithms/1.0.0": {
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0"
+        },
+        "runtime": {
+          "ValidationAlgorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryCustomer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity/3.5.1404": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1wNboi2d9H0I14KevW7o7NTVN2IYsGC6L9m/gPztiQxhsXDTDxVJ3jddX0P03x3gd+goGB9zB2569HHaDA47SA==",
+      "path": "unity/3.5.1404",
+      "hashPath": "unity.3.5.1404.nupkg.sha512"
+    },
+    "InterfaceCustomer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiddleLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidationAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
