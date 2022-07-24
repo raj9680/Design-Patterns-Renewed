@@ -1,0 +1,10 @@
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.deps.json
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.dll
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.pdb
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.dll
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\Factory_Rip_LazyLoading.pdb

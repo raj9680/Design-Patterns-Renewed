@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Unity/3.5.1404": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.dll": {}
+        }
+      },
+      "InterfaceCustomer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InterfaceCustomer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfaceCustomer.dll": {}
+        }
+      },
+      "MiddleLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MiddleLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiddleLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unity/3.5.1404": {
+      "sha512": "1wNboi2d9H0I14KevW7o7NTVN2IYsGC6L9m/gPztiQxhsXDTDxVJ3jddX0P03x3gd+goGB9zB2569HHaDA47SA==",
+      "type": "package",
+      "path": "unity/3.5.1404",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "UnityConfiguration30.xsd",
+        "lib/net45/Microsoft.Practices.Unity.Configuration.XML",
+        "lib/net45/Microsoft.Practices.Unity.Configuration.dll",
+        "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.XML",
+        "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll",
+        "lib/net45/Microsoft.Practices.Unity.dll",
+        "lib/net45/Microsoft.Practices.Unity.xml",
+        "lib/portable-net45+wp80+win8+MonoAndroid10+MonoTouch10/Microsoft.Practices.Unity.dll",
+        "lib/portable-net45+wp80+win8+MonoAndroid10+MonoTouch10/Microsoft.Practices.Unity.xml",
+        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.XML",
+        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.dll",
+        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.pri",
+        "lib/win8/Microsoft.Practices.Unity.dll",
+        "lib/win8/Microsoft.Practices.Unity.xml",
+        "lib/wp80/Microsoft.Practices.Unity.RegistrationByConvention.XML",
+        "lib/wp80/Microsoft.Practices.Unity.RegistrationByConvention.dll",
+        "lib/wp80/Microsoft.Practices.Unity.dll",
+        "lib/wp80/Microsoft.Practices.Unity.xml",
+        "unity.3.5.1404.nupkg.sha512",
+        "unity.nuspec"
+      ]
+    },
+    "InterfaceCustomer/1.0.0": {
+      "type": "project",
+      "path": "../../InterfaceCustomer/InterfaceCustomer.csproj",
+      "msbuildProject": "../../InterfaceCustomer/InterfaceCustomer.csproj"
+    },
+    "MiddleLayer/1.0.0": {
+      "type": "project",
+      "path": "../AutomateFactory/MiddleLayer.csproj",
+      "msbuildProject": "../AutomateFactory/MiddleLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "InterfaceCustomer >= 1.0.0",
+      "MiddleLayer >= 1.0.0",
+      "Unity >= 3.5.1404"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\AutomateFactory\\FactoryCustomer\\FactoryCustomer.csproj",
+      "projectName": "FactoryCustomer",
+      "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\AutomateFactory\\FactoryCustomer\\FactoryCustomer.csproj",
+      "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\AutomateFactory\\FactoryCustomer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\AutomateFactory\\AutomateFactory\\MiddleLayer.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\AutomateFactory\\AutomateFactory\\MiddleLayer.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\InterfaceCustomer\\InterfaceCustomer.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\InterfaceCustomer\\InterfaceCustomer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Unity": {
+            "target": "Package",
+            "version": "[3.5.1404, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity 3.5.1404' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\01. Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
