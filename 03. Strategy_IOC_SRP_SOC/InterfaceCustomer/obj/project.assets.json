@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\InterfaceCustomer\\InterfaceCustomer.csproj",
+      "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\03. Strategy_IOC_SRP_SOC\\InterfaceCustomer\\InterfaceCustomer.csproj",
       "projectName": "InterfaceCustomer",
-      "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\InterfaceCustomer\\InterfaceCustomer.csproj",
+      "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\03. Strategy_IOC_SRP_SOC\\InterfaceCustomer\\InterfaceCustomer.csproj",
       "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\AutomateFactory\\InterfaceCustomer\\obj\\",
+      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\03. Strategy_IOC_SRP_SOC\\InterfaceCustomer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",

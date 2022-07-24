@@ -12,8 +12,11 @@ namespace InterfaceCustomer
         void Validate();
     }
 
-    public interface IValidation
+    // STRATEGY PATTERN - It is a behavioral design pattern which helps to select algorithms on runtime
+    /// For decoupling ValidationAlgorithm from MiddleLayer,
+    /// we made our interface generic so that we can apply validation on any type of object
+    public interface IValidation<AnyType>
     {
-        void validate(ICustomer obj);
+        void validate(AnyType obj);
     }
 }
