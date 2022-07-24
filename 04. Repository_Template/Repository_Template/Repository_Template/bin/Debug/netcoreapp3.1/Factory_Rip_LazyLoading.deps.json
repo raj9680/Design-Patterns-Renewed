@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Factory_Rip_LazyLoading/1.0.0": {
+        "runtime": {
+          "Factory_Rip_LazyLoading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factory_Rip_LazyLoading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
