@@ -72,8 +72,7 @@ namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery 
                 "CustomerName," +
                 "BillAmount, BillDate," +
                 "PhoneNumber, Address)" +
-                "values('" + 
-                obj.CustomerName + ",'" +
+                "values('" + obj.CustomerName + "'," +
                 obj.BillAmount + ",'" +
                 obj.BillDate + "','" +
                 obj.PhoneNumber + "','" +
