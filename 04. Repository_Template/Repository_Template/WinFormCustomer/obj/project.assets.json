@@ -149,6 +149,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "CommonDAL": "1.0.0",
+          "FactoryCustomer": "1.0.0",
           "InterfaceCustomer": "1.0.0",
           "InterfaceDal": "1.0.0",
           "System.Data.SqlClient": "4.8.3"
@@ -177,8 +178,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "AdoDotnetDAL": "1.0.0",
-          "CommonDAL": "1.0.0",
           "InterfaceCustomer": "1.0.0",
           "InterfaceDal": "1.0.0",
           "MiddleLayer": "1.0.0",
@@ -190,6 +189,22 @@
         },
         "runtime": {
           "bin/placeholder/FactoryCustomer.dll": {}
+        }
+      },
+      "FactoryDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AdoDotnetDAL": "1.0.0",
+          "CommonDAL": "1.0.0",
+          "InterfaceDal": "1.0.0",
+          "Unity": "3.5.1404"
+        },
+        "compile": {
+          "bin/placeholder/FactoryDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryDAL.dll": {}
         }
       },
       "InterfaceCustomer/1.0.0": {
@@ -598,6 +613,11 @@
       "path": "../FactoryCustomer/FactoryCustomer.csproj",
       "msbuildProject": "../FactoryCustomer/FactoryCustomer.csproj"
     },
+    "FactoryDAL/1.0.0": {
+      "type": "project",
+      "path": "../FactoryDAL/FactoryDAL.csproj",
+      "msbuildProject": "../FactoryDAL/FactoryDAL.csproj"
+    },
     "InterfaceCustomer/1.0.0": {
       "type": "project",
       "path": "../../InterfaceCustomer/InterfaceCustomer.csproj",
@@ -622,6 +642,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "FactoryCustomer >= 1.0.0",
+      "FactoryDAL >= 1.0.0",
       "InterfaceCustomer >= 1.0.0",
       "InterfaceDal >= 1.0.0"
     ]
@@ -658,6 +679,9 @@
             },
             "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\FactoryCustomer\\FactoryCustomer.csproj": {
               "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\FactoryCustomer\\FactoryCustomer.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\FactoryDAL\\FactoryDAL.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\FactoryDAL\\FactoryDAL.csproj"
             },
             "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\InterfaceDal\\InterfaceDal.csproj": {
               "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\InterfaceDal\\InterfaceDal.csproj"

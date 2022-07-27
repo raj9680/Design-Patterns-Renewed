@@ -1,14 +1,14 @@
-﻿using System;
+﻿using CommonDAL;
+using InterfaceCustomer;
 using System.Collections.Generic;
 using System.Data.SqlClient;
-using CommonDAL;
-using InterfaceDal;
-using InterfaceCustomer;
+using FactoryCustomer;
+using System;
 
 /// Template Pattern
 namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery -> CloseConnection
 {
-    public abstract class TemplateADO<AnyType>: AbstractDal<AnyType>
+    public abstract class TemplateADO<AnyType> : AbstractDal<AnyType>
     {
         protected SqlConnection objConn = null;
         protected SqlCommand objCommand = null;
@@ -17,7 +17,7 @@ namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery 
         public TemplateADO(string _ConnectionString)
             : base(_ConnectionString)
         {
-            
+
         }
 
 
@@ -30,7 +30,8 @@ namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery 
         }
 
 
-        protected abstract void ExecuteCommand(AnyType obj);  // To force child class to override this method
+        protected abstract void ExecuteCommand(AnyType obj);  // (Add records) To force child class to override this method
+        protected abstract List<AnyType> ExecuteCommand();  // (Get records) To force child class to override this method
 
         private void Close()  // Fixed sequence
         {
@@ -46,6 +47,15 @@ namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery 
             Close();
         }
 
+        public List<AnyType> Execute()
+        {
+            List<AnyType> objTypes = null;
+            Open();
+            objTypes = ExecuteCommand();
+            Close();
+            return objTypes;
+        }
+
 
         // Interface inherited/override methods
         public override void Save()
@@ -55,13 +65,18 @@ namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery 
                 Execute(o);
             }
         }
+
+        public override List<AnyType> Search()
+        {
+            return Execute();
+        }
     }
 
 
     /// Actual DAL above was template pattern design for fixed sequence
     public class CustomerDAL : TemplateADO<ICustomer>
     {
-        public CustomerDAL(string _ConnectionString): base(_ConnectionString)
+        public CustomerDAL(string _ConnectionString) : base(_ConnectionString)
         {
 
         }
@@ -79,6 +94,26 @@ namespace AdoDotnetDAL /// Sequence of ADO.NET - OpenConnection -> ExecuteQuery 
                 obj.Address + "')";
             objCommand.ExecuteNonQuery();
         }
-    }
 
+
+        protected override List<ICustomer> ExecuteCommand()
+        {
+            objCommand.CommandText = "SELECT * FROM tblCustomer";
+            SqlDataReader dr = null;
+            dr = objCommand.ExecuteReader();
+            List<ICustomer> custs = new List<ICustomer>();
+            while (dr.Read())
+            {
+                ICustomer icust = Factory<ICustomer>.Create("Customer");
+                icust.CustomerName = dr["CustomerName"].ToString();
+                icust.BillDate = Convert.ToDateTime(dr["BillDate"]);
+                icust.BillAmount = Convert.ToDecimal(dr["BillAmount"]);
+                icust.PhoneNumber = dr["PhoneNumber"].ToString();
+                icust.Address = dr["Address"].ToString();
+                custs.Add(icust);
+            }
+            return custs;
+        }
+
+    }
 }

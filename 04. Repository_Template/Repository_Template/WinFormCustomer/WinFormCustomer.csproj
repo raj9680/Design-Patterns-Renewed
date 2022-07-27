@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\InterfaceCustomer\InterfaceCustomer.csproj" />
     <ProjectReference Include="..\FactoryCustomer\FactoryCustomer.csproj" />
+    <ProjectReference Include="..\FactoryDAL\FactoryDAL.csproj" />
     <ProjectReference Include="..\InterfaceDal\InterfaceDal.csproj" />
   </ItemGroup>
 

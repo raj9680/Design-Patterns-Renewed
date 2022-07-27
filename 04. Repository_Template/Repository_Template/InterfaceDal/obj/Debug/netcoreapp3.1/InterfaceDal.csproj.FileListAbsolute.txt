@@ -7,3 +7,4 @@ C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\InterfaceDal\obj\Debug\netcoreapp3.1\InterfaceDal.csproj.CoreCompileInputs.cache
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\InterfaceDal\obj\Debug\netcoreapp3.1\InterfaceDal.dll
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\InterfaceDal\obj\Debug\netcoreapp3.1\InterfaceDal.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\InterfaceDal\obj\Debug\netcoreapp3.1\InterfaceDal.csproj.AssemblyReference.cache

@@ -43,6 +43,8 @@ namespace WinFormCustomer
             this.Address = new System.Windows.Forms.RichTextBox();
             this.ValidateBtn = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
+            this.dataGrid = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).BeginInit();
             this.SuspendLayout();
             // 
             // CustomerTypeLabel
@@ -175,11 +177,22 @@ namespace WinFormCustomer
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
+            // dataGrid
+            // 
+            this.dataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGrid.Location = new System.Drawing.Point(18, 195);
+            this.dataGrid.Name = "dataGrid";
+            this.dataGrid.RowHeadersWidth = 51;
+            this.dataGrid.RowTemplate.Height = 29;
+            this.dataGrid.Size = new System.Drawing.Size(750, 239);
+            this.dataGrid.TabIndex = 14;
+            // 
             // FrmCustomer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.dataGrid);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.ValidateBtn);
             this.Controls.Add(this.Address);
@@ -197,6 +210,7 @@ namespace WinFormCustomer
             this.Name = "FrmCustomer";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.FrmCustomer_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -218,6 +232,7 @@ namespace WinFormCustomer
         private System.Windows.Forms.RichTextBox Address;
         private System.Windows.Forms.Button ValidateBtn;
         private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.DataGridView dataGrid;
     }
 }
 

@@ -3,6 +3,8 @@ using System.Windows.Forms;
 using FactoryCustomer;
 using InterfaceCustomer;
 using InterfaceDal;
+using FactoryDal;
+using System.Collections.Generic;
 
 namespace WinFormCustomer
 {
@@ -51,6 +53,20 @@ namespace WinFormCustomer
             dal.Save();  // Physical commit
         }
 
+
+        // Loading UI
+        private void FrmCustomer_Load(object sender, EventArgs e)
+        {
+            LoadGrid();
+        }
+
+        private void LoadGrid()
+        {
+            IDal<ICustomer> Idal = FactoryClass<IDal<ICustomer>>.Create("ADODal");
+            List<ICustomer> custs = Idal.Search();
+            dataGrid.DataSource = custs;
+        }
+
         private void CustomerName_TextChanged(object sender, EventArgs e)
         {
 
@@ -76,9 +92,6 @@ namespace WinFormCustomer
 
         }
 
-        private void FrmCustomer_Load(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

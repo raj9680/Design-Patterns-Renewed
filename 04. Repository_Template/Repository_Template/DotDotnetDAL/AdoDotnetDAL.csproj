@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\InterfaceCustomer\InterfaceCustomer.csproj" />
     <ProjectReference Include="..\CommonDAL\CommonDAL.csproj" />
+    <ProjectReference Include="..\FactoryCustomer\FactoryCustomer.csproj" />
     <ProjectReference Include="..\InterfaceDal\InterfaceDal.csproj" />
   </ItemGroup>
 

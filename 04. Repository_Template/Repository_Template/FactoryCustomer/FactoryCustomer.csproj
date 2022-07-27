@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\InterfaceCustomer\InterfaceCustomer.csproj" />
-    <ProjectReference Include="..\CommonDAL\CommonDAL.csproj" />
-    <ProjectReference Include="..\DotDotnetDAL\AdoDotnetDAL.csproj" />
     <ProjectReference Include="..\InterfaceDal\InterfaceDal.csproj" />
     <ProjectReference Include="..\Repository_Template\MiddleLayer.csproj" />
     <ProjectReference Include="..\ValidationAlgorithms\ValidationAlgorithms.csproj" />

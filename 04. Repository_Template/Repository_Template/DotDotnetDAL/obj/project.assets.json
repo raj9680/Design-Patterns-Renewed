@@ -131,6 +131,19 @@
           }
         }
       },
+      "Unity/3.5.1404": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
+          "lib/net45/Microsoft.Practices.Unity.dll": {}
+        }
+      },
       "CommonDAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -142,6 +155,23 @@
         },
         "runtime": {
           "bin/placeholder/CommonDAL.dll": {}
+        }
+      },
+      "FactoryCustomer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0",
+          "InterfaceDal": "1.0.0",
+          "MiddleLayer": "1.0.0",
+          "Unity": "3.5.1404",
+          "ValidationAlgorithms": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FactoryCustomer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryCustomer.dll": {}
         }
       },
       "InterfaceCustomer/1.0.0": {
@@ -162,6 +192,32 @@
         },
         "runtime": {
           "bin/placeholder/InterfaceDal.dll": {}
+        }
+      },
+      "MiddleLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MiddleLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiddleLayer.dll": {}
+        }
+      },
+      "ValidationAlgorithms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InterfaceCustomer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ValidationAlgorithms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidationAlgorithms.dll": {}
         }
       }
     }
@@ -480,10 +536,44 @@
         "version.txt"
       ]
     },
+    "Unity/3.5.1404": {
+      "sha512": "1wNboi2d9H0I14KevW7o7NTVN2IYsGC6L9m/gPztiQxhsXDTDxVJ3jddX0P03x3gd+goGB9zB2569HHaDA47SA==",
+      "type": "package",
+      "path": "unity/3.5.1404",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "UnityConfiguration30.xsd",
+        "lib/net45/Microsoft.Practices.Unity.Configuration.XML",
+        "lib/net45/Microsoft.Practices.Unity.Configuration.dll",
+        "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.XML",
+        "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll",
+        "lib/net45/Microsoft.Practices.Unity.dll",
+        "lib/net45/Microsoft.Practices.Unity.xml",
+        "lib/portable-net45+wp80+win8+MonoAndroid10+MonoTouch10/Microsoft.Practices.Unity.dll",
+        "lib/portable-net45+wp80+win8+MonoAndroid10+MonoTouch10/Microsoft.Practices.Unity.xml",
+        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.XML",
+        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.dll",
+        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.pri",
+        "lib/win8/Microsoft.Practices.Unity.dll",
+        "lib/win8/Microsoft.Practices.Unity.xml",
+        "lib/wp80/Microsoft.Practices.Unity.RegistrationByConvention.XML",
+        "lib/wp80/Microsoft.Practices.Unity.RegistrationByConvention.dll",
+        "lib/wp80/Microsoft.Practices.Unity.dll",
+        "lib/wp80/Microsoft.Practices.Unity.xml",
+        "unity.3.5.1404.nupkg.sha512",
+        "unity.nuspec"
+      ]
+    },
     "CommonDAL/1.0.0": {
       "type": "project",
       "path": "../CommonDAL/CommonDAL.csproj",
       "msbuildProject": "../CommonDAL/CommonDAL.csproj"
+    },
+    "FactoryCustomer/1.0.0": {
+      "type": "project",
+      "path": "../FactoryCustomer/FactoryCustomer.csproj",
+      "msbuildProject": "../FactoryCustomer/FactoryCustomer.csproj"
     },
     "InterfaceCustomer/1.0.0": {
       "type": "project",
@@ -494,11 +584,22 @@
       "type": "project",
       "path": "../InterfaceDal/InterfaceDal.csproj",
       "msbuildProject": "../InterfaceDal/InterfaceDal.csproj"
+    },
+    "MiddleLayer/1.0.0": {
+      "type": "project",
+      "path": "../Repository_Template/MiddleLayer.csproj",
+      "msbuildProject": "../Repository_Template/MiddleLayer.csproj"
+    },
+    "ValidationAlgorithms/1.0.0": {
+      "type": "project",
+      "path": "../ValidationAlgorithms/ValidationAlgorithms.csproj",
+      "msbuildProject": "../ValidationAlgorithms/ValidationAlgorithms.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "CommonDAL >= 1.0.0",
+      "FactoryCustomer >= 1.0.0",
       "InterfaceCustomer >= 1.0.0",
       "InterfaceDal >= 1.0.0",
       "System.Data.SqlClient >= 4.8.3"
@@ -536,6 +637,9 @@
             },
             "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\CommonDAL\\CommonDAL.csproj": {
               "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\CommonDAL\\CommonDAL.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\FactoryCustomer\\FactoryCustomer.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\FactoryCustomer\\FactoryCustomer.csproj"
             },
             "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\InterfaceDal\\InterfaceDal.csproj": {
               "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\04. Repository_Template\\Repository_Template\\InterfaceDal\\InterfaceDal.csproj"
@@ -576,5 +680,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity 3.5.1404' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

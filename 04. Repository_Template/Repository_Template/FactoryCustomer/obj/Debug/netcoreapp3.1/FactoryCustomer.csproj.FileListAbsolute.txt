@@ -88,9 +88,5 @@ C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
-C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\AdoDotnetDAL.dll
-C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\CommonDAL.dll
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceDal.dll
-C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\CommonDAL.pdb
-C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\AdoDotnetDAL.pdb
 C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceDal.pdb
