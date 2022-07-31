@@ -19,7 +19,7 @@ namespace FactoryCustomer
                 ObjectsOfOurProj.RegisterType<ICustomer, Lead>("Lead", new InjectionConstructor(new LeadValidation()));
 
                 // Objct creation of Repo-Temp pattern - Object of DAL  -> FactoryDAL bcoz of circular dependency
-                // ObjectsOfOurProjects.RegisterType<IDal<ICustomer>, CustomerDAL>("ADODal");
+                // ObjectsOfOurProj.RegisterType<IDal<ICustomer>, CustomerDAL>("AdoDal");
             }
 
             return ObjectsOfOurProj.Resolve<AnyType>(Type);

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\InterfaceCustomer\InterfaceCustomer.csproj" />
+    <ProjectReference Include="..\FactoryCustomer\FactoryCustomer.csproj" />
+    <ProjectReference Include="..\FactoryDAL\FactoryDAL.csproj" />
+    <ProjectReference Include="..\InterfaceDal\InterfaceDal.csproj" />
+  </ItemGroup>
+
+</Project>

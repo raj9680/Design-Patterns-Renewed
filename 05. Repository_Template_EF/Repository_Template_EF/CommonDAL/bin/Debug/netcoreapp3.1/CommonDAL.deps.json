@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CommonDAL/1.0.0": {
+        "dependencies": {
+          "InterfaceDal": "1.0.0"
+        },
+        "runtime": {
+          "CommonDAL.dll": {}
+        }
+      },
+      "InterfaceDal/1.0.0": {
+        "runtime": {
+          "InterfaceDal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommonDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

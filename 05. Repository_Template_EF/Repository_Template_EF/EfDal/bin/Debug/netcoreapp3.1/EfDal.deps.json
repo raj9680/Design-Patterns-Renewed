@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EfDal/1.0.0": {
+        "dependencies": {
+          "EntityFramework": "4.3.1",
+          "InterfaceCustomer": "1.0.0",
+          "InterfaceDal": "1.0.0"
+        },
+        "runtime": {
+          "EfDal.dll": {}
+        }
+      },
+      "EntityFramework/4.3.1": {
+        "runtime": {
+          "lib/net40/EntityFramework.dll": {
+            "assemblyVersion": "4.3.1.0",
+            "fileVersion": "4.3.20217.0"
+          }
+        }
+      },
+      "InterfaceCustomer/1.0.0": {
+        "runtime": {
+          "InterfaceCustomer.dll": {}
+        }
+      },
+      "InterfaceDal/1.0.0": {
+        "runtime": {
+          "InterfaceDal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EfDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kZx+E9nldKb56pZRWlbPH6IXUN+rKHNN+HSjVeDfqJYJP9QhBATMNxN/QhJiNO2rW7ArCXKW3EWVwzlHlA1W+w==",
+      "path": "entityframework/4.3.1",
+      "hashPath": "entityframework.4.3.1.nupkg.sha512"
+    },
+    "InterfaceCustomer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

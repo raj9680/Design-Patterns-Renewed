@@ -1,0 +1,111 @@
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\ValidationAlgorithms.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\bin\Debug\netcoreapp3.1\ValidationAlgorithms.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\ValidationAlgorithms.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\ValidationAlgorithms.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceDal.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceDal.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\FactoryCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceDal.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\ValidationAlgorithms.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\InterfaceDal.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\bin\Debug\netcoreapp3.1\ValidationAlgorithms.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\FactoryCustomer\obj\Debug\netcoreapp3.1\FactoryCustomer.pdb

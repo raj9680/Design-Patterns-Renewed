@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\EfDal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj",
+        "projectName": "InterfaceCustomer",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\EfDal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\EfDal.csproj",
+        "projectName": "EfDal",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\EfDal.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj",
+        "projectName": "InterfaceDal",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

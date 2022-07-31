@@ -3,7 +3,8 @@ using InterfaceCustomer;
 
 namespace MiddleLayer
 {
-    public class CustomerBase: ICustomer
+    //public class CustomerBase: ICustomer - bcoz EF can only Map tables entity with abstract class atleast
+    public abstract class CustomerBase : ICustomer
     {
         /// creating object of IValidation whoever use the entities of middle layer
         private IValidation<ICustomer> validation = null;

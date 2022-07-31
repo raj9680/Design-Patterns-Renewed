@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\InterfaceCustomer\InterfaceCustomer.csproj" />
+    <ProjectReference Include="..\CommonDAL\CommonDAL.csproj" />
+    <ProjectReference Include="..\FactoryCustomer\FactoryCustomer.csproj" />
+    <ProjectReference Include="..\InterfaceDal\InterfaceDal.csproj" />
+  </ItemGroup>
+
+</Project>

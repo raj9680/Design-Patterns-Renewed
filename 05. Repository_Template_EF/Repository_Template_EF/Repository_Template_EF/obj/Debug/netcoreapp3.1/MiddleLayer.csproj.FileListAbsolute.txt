@@ -1,0 +1,85 @@
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\src\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\StrategyPattern_AutomateFactoryPatternUsingUnity\Factory_Rip_LazyLoading\Factory_Rip_LazyLoading\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\AutomateFactory\AutomateFactory\AutomateFactory\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\03. Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\Strategy_IOC_SRP_SOC\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\04. Repository_Template\Repository_Template\Repository_Template\obj\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\bin\Debug\netcoreapp3.1\InterfaceCustomer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\bin\Debug\netcoreapp3.1\InterfaceCustomer.pdb
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CopyComplete
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\raj.kumar\Desktop\DP\DP\Design-Patterns-Renewed\05. Repository_Template_EF\Repository_Template_EF\Repository_Template_EF\obj\Debug\netcoreapp3.1\MiddleLayer.pdb

@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EntityFramework/4.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net40/EntityFramework.dll": {}
+        }
+      },
+      "InterfaceCustomer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InterfaceCustomer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfaceCustomer.dll": {}
+        }
+      },
+      "InterfaceDal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InterfaceDal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfaceDal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework/4.3.1": {
+      "sha512": "kZx+E9nldKb56pZRWlbPH6IXUN+rKHNN+HSjVeDfqJYJP9QhBATMNxN/QhJiNO2rW7ArCXKW3EWVwzlHlA1W+w==",
+      "type": "package",
+      "path": "entityframework/4.3.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/App.config.transform",
+        "Content/Web.config.transform",
+        "entityframework.4.3.1.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "tools/EF4.3on.NET4.5Readme.txt",
+        "tools/EntityFramework.PowerShell.dll",
+        "tools/EntityFramework.psd1",
+        "tools/EntityFramework.psm1",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/migrate.exe"
+      ]
+    },
+    "InterfaceCustomer/1.0.0": {
+      "type": "project",
+      "path": "../../InterfaceCustomer/InterfaceCustomer.csproj",
+      "msbuildProject": "../../InterfaceCustomer/InterfaceCustomer.csproj"
+    },
+    "InterfaceDal/1.0.0": {
+      "type": "project",
+      "path": "../InterfaceDal/InterfaceDal.csproj",
+      "msbuildProject": "../InterfaceDal/InterfaceDal.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EntityFramework >= 4.3.1",
+      "InterfaceCustomer >= 1.0.0",
+      "InterfaceDal >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\EfDal.csproj",
+      "projectName": "EfDal",
+      "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\EfDal.csproj",
+      "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\EfDal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\InterfaceCustomer\\InterfaceCustomer.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\DP\\DP\\Design-Patterns-Renewed\\05. Repository_Template_EF\\Repository_Template_EF\\InterfaceDal\\InterfaceDal.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[4.3.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 4.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

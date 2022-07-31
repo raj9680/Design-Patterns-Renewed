@@ -48,9 +48,10 @@ namespace WinFormCustomer
         {
             SetCustomer();
             // DAL Operation
-            IDal<ICustomer> dal = Factory<IDal<ICustomer>>.Create("ADODal");
+            IDal<ICustomer> dal = FactoryClass<IDal<ICustomer>>.Create("ADODal");
             dal.Add(Cust);  // In memory
             dal.Save();  // Physical commit
+            LoadGrid();
         }
 
 
@@ -58,6 +59,9 @@ namespace WinFormCustomer
         private void FrmCustomer_Load(object sender, EventArgs e)
         {
             LoadGrid();
+
+            dalComboBox.Items.Add("ADO DAL");
+            dalComboBox.Items.Add("EF DAL");
         }
 
         private void LoadGrid()
@@ -92,6 +96,9 @@ namespace WinFormCustomer
 
         }
 
-        
+        private void dalComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
